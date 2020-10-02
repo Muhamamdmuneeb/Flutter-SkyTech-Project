@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323069248171",
+    "firebase_url": "https://skytech-5d5eb.firebaseio.com",
+    "project_id": "skytech-5d5eb",
+    "storage_bucket": "skytech-5d5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323069248171:android:dd4e9e0b8436618ae1adee",
+        "android_client_info": {
+          "package_name": "com.example.skytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323069248171-99nr3nu1mu89pt6h1e8lcgiiohccus72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skytech",
+            "certificate_hash": "59ec0e9abc9ad39d5b8434a85131122e1701de9a"
+          }
+        },
+        {
+          "client_id": "323069248171-h3gualanmutoie704hh5svvaakim2p2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYFvYBAr-o-bnd0LwFTR0HsPSf1DXPHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323069248171-h3gualanmutoie704hh5svvaakim2p2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
